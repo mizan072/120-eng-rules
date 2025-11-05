@@ -1,0 +1,602 @@
+[
+  {
+    "rule_number": 1,
+    "title": "Difference between 'Each' and 'Every'",
+    "explanation": "Always followed by a singular verb. 'Each' is for two or more items (individualistic), 'Every' is for more than two (collective). 'Each' can be a pronoun or adjective; 'Every' is only an adjective."
+  },
+  {
+    "rule_number": 2,
+    "title": "'Both' and 'not' cannot be used together",
+    "explanation": "Instead of 'Both...not', use 'Neither...nor'. Example: 'Neither Ram nor Shyam is going' is correct."
+  },
+  {
+    "rule_number": 3,
+    "title": "Usage of Relative Pronouns (who, whom, which, that)",
+    "explanation": "'Who'/'Whom' for people. 'Which' for animals/things. 'That' for all, and required after words like 'all', 'any', 'the only', 'the same', and superlatives."
+  },
+  {
+    "rule_number": 4,
+    "title": "Three Types of Conditional Sentences",
+    "explanation": "Type 1 (Possible): If [Simple Present], [will-future]. Type 2 (Theory): If [Simple Past], [would + V1]. Type 3 (Impossible): If [Past Perfect], [would + have + V3]."
+  },
+  {
+    "rule_number": 5,
+    "title": "Usage of 'One of the'",
+    "explanation": "'One of the' + PLURAL NOUN. Use a singular verb ('One of the birds *is* red') unless a relative pronoun is used ('one of the birds *that fly*'). 'The only one of the...' always takes a singular verb."
+  },
+  {
+    "rule_number": 6,
+    "title": "'Number + Unit + Noun' Rule",
+    "explanation": "The unit is singular when used as an adjective before a noun (e.g., 'a ten-inch snake', 'a five-hundred-rupee note')."
+  },
+  {
+    "rule_number": 7,
+    "title": "Expressions of Time, Money, Distance, etc.",
+    "explanation": "Takes a singular verb if the amount is treated as a single unit ('Ten miles *is* a long walk'). Takes a plural verb if treated as separate units ('Ten miles *were* covered by car and on foot')."
+  },
+  {
+    "rule_number": 8,
+    "title": "Comparisons within a Group",
+    "explanation": "When comparing one item to its entire group, use 'any other' to exclude it from the group (e.g., 'Gold is more precious than *any other* metal')."
+  },
+  {
+    "rule_number": 9,
+    "title": "Prepositions of Time: 'Since' and 'For'",
+    "explanation": "'For' is used for a duration/period of time. 'Since' is used for a specific point in time (the start point)."
+  },
+  {
+    "rule_number": 10,
+    "title": "Two Actions in the Past",
+    "explanation": "The action that happened earlier uses the Past Perfect Tense (had + V3). The action that happened later uses the Simple Past Tense (V2)."
+  },
+  {
+    "rule_number": 11,
+    "title": "Possessive Adjective before a Gerund",
+    "explanation": "Use a possessive adjective (my, our, his, her, their) before a gerund (-ing form used as a noun). Example: 'I hope you don't mind *my* borrowing your car.'"
+  },
+  {
+    "rule_number": 12,
+    "title": "Law of Inversion",
+    "explanation": "Reversing the normal order (verb before subject), usually for emphasis when a sentence starts with a negative adverb (e.g., 'Never *have I* seen...')."
+  },
+  {
+    "rule_number": 13,
+    "title": "Article 'The' with Places",
+    "explanation": "Do not use 'The' when visiting a place (school, church, hospital) for its primary purpose. Use 'The' when visiting for any other secondary purpose."
+  },
+  {
+    "rule_number": 14,
+    "title": "Inversion with 'No sooner', 'Hardly', 'Scarcely'",
+    "explanation": "When these start a sentence, they must be followed by a helping verb (inversion). The correct pairs are 'No sooner...than' and 'Hardly/Scarcely...when'."
+  },
+  {
+    "rule_number": 15,
+    "title": "Reflexive Pronouns as Objects",
+    "explanation": "Verbs like 'enjoy', 'avail', 'absent', 'pride', 'acquit', 'adjust' must be followed by an object. If no other object is present, use a reflexive pronoun (e.g., 'He enjoyed *himself*...')."
+  },
+  {
+    "rule_number": 16,
+    "title": "Verbs Not Followed by Reflexive Pronouns",
+    "explanation": "Verbs like 'hide', 'keep', 'stop', 'turn', 'bathe' do not take a reflexive pronoun. (e.g., 'He hid in the room,' not 'He hid himself...')."
+  },
+  {
+    "rule_number": 17,
+    "title": "Subject-Verb Agreement with 'as well as', 'along with'",
+    "explanation": "When two subjects are connected by phrases like 'as well as', 'together with', 'along with', the verb agrees with the *first* subject."
+  },
+  {
+    "rule_number": 18,
+    "title": "Noun vs. Verb Forms",
+    "explanation": "Be aware of different spellings for nouns and verbs. Nouns: 'Advice', 'Practice', 'Belief'. Verbs: 'Advise', 'Practise', 'Believe'."
+  },
+  {
+    "rule_number": 19,
+    "title": "Pronoun Case in Comparisons",
+    "explanation": "Comparisons must be between the same case. (e.g., 'She is taller than *I*.' [Subject to subject] vs. 'My parents scold me more than *him*.' [Object to object])."
+  },
+  {
+    "rule_number": 20,
+    "title": "'Who' vs. 'Whom'",
+    "explanation": "'Who' is subjective (replaces with He/She). 'Whom' is objective (replaces with Him/Her). Use the substitution method to check."
+  },
+  {
+    "rule_number": 21,
+    "title": "Words Not Taking Possessive Case",
+    "explanation": "Words like 'separation', 'excuse', 'mention', 'favour', 'pardon' do not take a possessive adjective before them. (e.g., 'Separation *from you*,' not '*Your separation*')."
+  },
+  {
+    "rule_number": 22,
+    "title": "'Each other' vs. 'One another'",
+    "explanation": "'Each other' is generally used for two people. 'One another' is used for more than two people."
+  },
+  {
+    "rule_number": 23,
+    "title": "'Seldom or never' / 'Little or nothing'",
+    "explanation": "The correct phrases are 'Seldom or never' or 'Seldom, if ever'. 'Seldom or ever' is incorrect. This also applies to 'Little or nothing' / 'Little, if anything'."
+  },
+  {
+    "rule_number": 24,
+    "title": "'Very' and 'Much' with Superlatives",
+    "explanation": "The order is 'the *very* best'. 'Very' modifies positive degree adjectives; 'Much' modifies comparative degrees."
+  },
+  {
+    "rule_number": 25,
+    "title": "Position of 'Enough'",
+    "explanation": "As an adjective, it comes *before* the noun ('enough sugar'). As an adverb, it comes *after* the adjective ('smart enough')."
+  },
+  {
+    "rule_number": 26,
+    "title": "Adverb 'as' with Verbs",
+    "explanation": "'as' is used with verbs like 'regard', 'define', 'describe'. 'as' is *not* used with 'elect', 'think', 'consider', 'call', 'appoint'."
+  },
+  {
+    "rule_number": 27,
+    "title": "Conjunction 'Although'",
+    "explanation": "'Although' (or 'Though') can be followed by 'yet' or nothing. It is *never* followed by 'but'."
+  },
+  {
+    "rule_number": 28,
+    "title": "Stative Verbs (No '-ing' Form)",
+    "explanation": "Verbs of possession, perception, or feeling (like 'own', 'see', 'love', 'know', 'taste', 'want') are generally not used in the continuous (-ing) form."
+  },
+  {
+    "rule_number": 29,
+    "title": "Words used with Perfect Tense",
+    "explanation": "Words like 'ever', 'never', 'yet', 'already', 'just now', 'lately', 'recently', 'so far' often signal the use of a Perfect Tense (e.g., 'He *has gone* just now')."
+  },
+  {
+    "rule_number": 30,
+    "title": "Subject-Verb Agreement with Collective Nouns",
+    "explanation": "Singular verb if the group acts as one unit ('The jury *is*...'). Plural verb if the members act individually ('The jury *are* divided...')."
+  },
+  {
+    "rule_number": 31,
+    "title": "Words Followed by 'to'",
+    "explanation": "Adjectives ending in '-ior' (Superior, Inferior, Junior, Senior) and words like 'Prefer', 'Known', 'Addicted' are followed by the preposition 'to', not 'than'."
+  },
+  {
+    "rule_number": 32,
+    "title": "'as... as' vs. 'so... as'",
+    "explanation": "Use 'as... as' for both positive and negative comparisons. Use 'so... as' *only* for negative comparisons. (e.g., 'He is not *so* good as...')."
+  },
+  {
+    "rule_number": 33,
+    "title": "Comparisons with 'times'",
+    "explanation": "When using 'times' for comparison, use the 'as... as' structure, not a comparative degree. (e.g., 'three times *as large as*', not 'three times larger than')."
+  },
+  {
+    "rule_number": 34,
+    "title": "Narration (Indirect Speech)",
+    "explanation": "Indirect speech is always a statement (Subject + Verb), never a question. (e.g., 'He asked me *where I was* going,' not '...where was I going')."
+  },
+  {
+    "rule_number": 35,
+    "title": "Agreement with 'or', 'nor', 'either/or'",
+    "explanation": "With 'either/or', 'neither/nor', or 'not only/but also', the verb agrees with the *nearest* subject."
+  },
+  {
+    "rule_number": 36,
+    "title": "Comparing Two Qualities of One Object",
+    "explanation": "Use 'more' + positive form, not a comparative form. (e.g., 'He is *more wise than* intelligent,' not 'He is wiser than intelligent')."
+  },
+  {
+    "rule_number": 37,
+    "title": "'More than one' and 'Many a'",
+    "explanation": "'More than one' and 'Many a' are followed by a singular noun and singular verb. 'Many', 'A good many', 'A great many' take plural nouns and plural verbs."
+  },
+  {
+    "rule_number": 38,
+    "title": "Connectors with 'Doubt'",
+    "explanation": "Use 'if' or 'whether' with 'doubt'/'doubtful' in affirmative sentences. Use 'that' with 'no doubt'/'not doubtful' or in negative sentences."
+  },
+  {
+    "rule_number": 39,
+    "title": "Narration: Exceptions to Tense Change",
+    "explanation": "The tense of reported speech does *not* change if it is a Universal Truth, Historical Fact, Proverb, or Habitual Fact."
+  },
+  {
+    "rule_number": 40,
+    "title": "'little, a little, the little' & 'few, a few, the few'",
+    "explanation": "`little/few` (hardly any, negative). `a little/a few` (some, positive). `the little/the few` (all that is available). `little` is for uncountable, `few` is for countable."
+  },
+  {
+    "rule_number": 41,
+    "title": "Objective Case after Prepositions",
+    "explanation": "A preposition (like 'but', 'except', 'between') or a verb like 'Let' must be followed by an objective pronoun (me, him, her, us, them)."
+  },
+  {
+    "rule_number": 42,
+    "title": "Sequence of Personal Pronouns",
+    "explanation": "For a positive sense, use the 231 order ('You, he and I'). For a negative sense (confession, guilt), use the 123 order ('I, you and he'). If all are plural, use 123 ('We, you and they')."
+  },
+  {
+    "rule_number": 43,
+    "title": "Superfluous Errors (Redundancy)",
+    "explanation": "Avoid redundant words. e.g., 'retreat back', 'suppose if', 'reborn again', 'mutual agreement', 'coward man', 'previous records'."
+  },
+  {
+    "rule_number": 44,
+    "title": "Apostrophe ('s) with Non-Living Things",
+    "explanation": "Do not use ('s) with non-living things ('legs of the table,' not 'table's legs'). Exceptions: time, weight, distance, personification ('one week's vacation')."
+  },
+  {
+    "rule_number": 45,
+    "title": "Simple Past vs. Present Perfect",
+    "explanation": "When a specific past time is mentioned ('yesterday', 'last week', '10 days ago'), always use Simple Past Tense (V2), not Present Perfect (have + V3)."
+  },
+  {
+    "rule_number": 46,
+    "title": "Absolute Adjectives",
+    "explanation": "Adjectives like 'unique', 'excellent', 'perfect', 'ideal', 'complete', 'entire' are non-gradable and are not used with 'most' or in comparative forms."
+  },
+  {
+    "rule_number": 47,
+    "title": "'Quite' and 'all' not used together",
+    "explanation": "The words 'quite' and 'all' are never used together. ('He is quite well' or 'He is all right,' not 'He is quite all right')."
+  },
+  {
+    "rule_number": 48,
+    "title": "'Ago' vs. 'Before'",
+    "explanation": "Use Simple Past Tense with 'ago'. Use Past Perfect Tense with 'before' (in the context of two past actions)."
+  },
+  {
+    "rule_number": 49,
+    "title": "Possessive Sign (Common vs. Split)",
+    "explanation": "Common Possession (one item): Apostrophe on the last noun only ('Ram and Shyam's car'). Split Possession (separate items): Apostrophe on each noun ('Ram's and Shyam's cars')."
+  },
+  {
+    "rule_number": 50,
+    "title": "'It's' vs. 'Its'",
+    "explanation": "'It's' is a contraction for 'It is' or 'It has'. 'Its' is the possessive pronoun (showing ownership)."
+  },
+  {
+    "rule_number": 51,
+    "title": "'A number of' vs. 'The number of'",
+    "explanation": "'A number of' + Plural Noun + PLURAL Verb. 'The number of' + Plural Noun + SINGULAR Verb."
+  },
+  {
+    "rule_number": 52,
+    "title": "Phrases 'It is time' / 'It is high time'",
+    "explanation": "Two correct structures: 1) 'It is time *to work*' (to + V1). 2) 'It is time *he worked*' (Subject + V2). Both refer to the present moment."
+  },
+  {
+    "rule_number": 53,
+    "title": "Preposition with 'Angry'",
+    "explanation": "'Angry *with* a person'. 'Angry *at* a thing or situation'. The same rule applies to 'Annoy'."
+  },
+  {
+    "rule_number": 54,
+    "title": "Verb 'Know' with Infinitives",
+    "explanation": "The verb 'know' is not followed directly by 'to + V1'. It needs a question word in between. (e.g., 'I know *how to* make tea,' not 'I know to make tea')."
+  },
+  {
+    "rule_number": 55,
+    "title": "Conjunctions 'else', 'other', 'rather'",
+    "explanation": "'else' is followed by 'but'. 'other' and 'rather' are followed by 'than'."
+  },
+  {
+    "rule_number": 56,
+    "title": "'Sort', 'Type', 'Kind'",
+    "explanation": "These singular words are followed by a singular noun and singular verb. (e.g., 'This *type* of article *is* sold...')."
+  },
+  {
+    "rule_number": 57,
+    "title": "Prepositions 'in', 'Inside', and 'into'",
+    "explanation": "'in' (static position, already inside). 'into' (movement from outside to inside; or change of state). 'inside' (refers to the inner part, often replaceable with 'in')."
+  },
+  {
+    "rule_number": 58,
+    "title": "Prepositions 'with' and 'by'",
+    "explanation": "'with' is used for non-living instruments ('write *with* a pen'). 'by' is used for the living agent ('driven *by* a man'). Exception: 'What is the time *by* your watch?'"
+  },
+  {
+    "rule_number": 59,
+    "title": "Preposition with 'Start'",
+    "explanation": "Do not use 'from' with 'start' for a single event. (e.g., 'My exams start *on* Monday,' not '...from Monday'). 'From' implies continuation."
+  },
+  {
+    "rule_number": 60,
+    "title": "Phrases Followed by Gerund ('To + V1+ing')",
+    "explanation": "Phrases where 'to' is a preposition, not an infinitive, must be followed by a gerund (-ing). e.g., 'be used to', 'accustomed to', 'addicted to', 'with a view to', 'look forward to'."
+  },
+  {
+    "rule_number": 61,
+    "title": "Article 'a' vs. 'an'",
+    "explanation": "The choice is determined by *sound*, not the letter. 'a' before consonant sounds ('a university', 'a one-rupee note'). 'an' before vowel sounds ('an hour', 'an M.Tech.')."
+  },
+  {
+    "rule_number": 62,
+    "title": "Usage of Definite Article 'The'",
+    "explanation": "Use 'The' with: mountain ranges (The Himalayas), rivers, oceans, deserts, religious books, musical instruments, and unique things (The Sun). Also in 'The higher you go, the cooler it is' and 'the better of the two'."
+  },
+  {
+    "rule_number": 63,
+    "title": "Omission of Article 'The'",
+    "explanation": "Do *not* use 'The' with: names of cities, non-abbreviated countries, continents, streets, single lakes, and single mountain peaks (Mount Everest)."
+  },
+  {
+    "rule_number": 64,
+    "title": "'The' + Adjective",
+    "explanation": "'The' + Adjective represents the entire group as a plural noun. (e.g., 'The poor' = poor people, 'The honest' = honest people, 'The rich' = rich people)."
+  },
+  {
+    "rule_number": 65,
+    "title": "Noun + Preposition + Same Noun",
+    "explanation": "When a preposition connects two identical nouns, both nouns must be in singular form. (e.g., 'Village after village', 'Book after book', 'Row upon row')."
+  },
+  {
+    "rule_number": 66,
+    "title": "Plurals of Compound Nouns",
+    "explanation": "Pluralize the main word. (e.g., 'Daughter-in-law' -> 'Daughters-in-law', 'Commander-in-chief' -> 'Commanders-in-chief', 'Passer-by' -> 'Passers-by')."
+  },
+  {
+    "rule_number": 67,
+    "title": "'Male'/'Female' vs. 'Man'/'Woman'",
+    "explanation": "'Male'/'Female' describes characteristics or type ('female watch'). 'Man'/'Woman' describes the person's gender ('woman doctor' = a doctor who is a woman)."
+  },
+  {
+    "rule_number": 68,
+    "title": "Antecedent Rule",
+    "explanation": "The antecedent is the noun/pronoun just before a relative pronoun. If there is no antecedent, use 'whoever' or 'whomever'."
+  },
+  {
+    "rule_number": 69,
+    "title": "Question Tags",
+    "explanation": "A positive statement has a negative tag, and a negative statement has a positive tag."
+  },
+  {
+    "rule_number": 70,
+    "title": "Question Tag for 'I am'",
+    "explanation": "The negative question tag for 'I am' is 'aren't I?', not 'amn't I?' or 'ain't I?'."
+  },
+  {
+    "rule_number": 71,
+    "title": "Question Tags with Negative Adverbs",
+    "explanation": "Words like 'Seldom', 'barely', 'hardly', 'scarcely', 'never' are negative. They must be followed by a *positive* question tag."
+  },
+  {
+    "rule_number": 72,
+    "title": "Tense in Question Tags",
+    "explanation": "The helping verb in the question tag must be in the same tense as the main statement."
+  },
+  {
+    "rule_number": 73,
+    "title": "Question Tags for 'Each' & 'Every'",
+    "explanation": "'Each/Every' takes a singular verb, but is referred to by a *plural* pronoun ('they') in the question tag. (e.g., 'Every girl *is* talented, *aren't they*?')."
+  },
+  {
+    "rule_number": 74,
+    "title": "Question Tags for Collective Nouns",
+    "explanation": "If the collective noun is singular (acting as a unit), the tag uses 'it'. If it is plural (acting as individuals), the tag uses 'they'."
+  },
+  {
+    "rule_number": 75,
+    "title": "Question Tags for Proposals",
+    "explanation": "For proposals starting with 'Let us...', the question tag is always 'shall we?'."
+  },
+  {
+    "rule_number": 76,
+    "title": "Prepositions of Time & Place: 'in, on, at'",
+    "explanation": "Use 'at' for specific points (at 4pm, at the corner). Use 'on' for surfaces or days (on the table, on Sunday). Use 'in' for enclosed areas or months/years (in the box, in April, in 1990)."
+  },
+  {
+    "rule_number": 77,
+    "title": "Conjunction 'Both'",
+    "explanation": "'Both' is always followed by 'and'. It is *never* followed by 'as well as'."
+  },
+  {
+    "rule_number": 78,
+    "title": "Conjunction 'Lest'",
+    "explanation": "'Lest' means 'otherwise' or 'to avoid'. It is followed by 'should' or the base verb (V1). (e.g., 'Work hard, lest you *should fail*')."
+  },
+  {
+    "rule_number": 79,
+    "title": "'Until' vs. 'Unless'",
+    "explanation": "'Until' is time-oriented (refers to 'when'). 'Unless' is action-oriented and conditional (refers to 'if...not')."
+  },
+  {
+    "rule_number": 80,
+    "title": "Error of Parallelism",
+    "explanation": "Sentence elements that are alike in function must also be alike in grammatical form. (e.g., 'I like *singing*, *dancing*, and *walking*')."
+  },
+  {
+    "rule_number": 81,
+    "title": "Using Proper Prepositions",
+    "explanation": "When using two words with different prepositional needs, state both prepositions. (e.g., 'He is superior *to* and older *than* me.')."
+  },
+  {
+    "rule_number": 82,
+    "title": "'Too much' vs. 'Much too'",
+    "explanation": "Use 'too much' before a Noun (e.g., 'too much sugar'). Use 'much too' before an Adjective or Adverb (e.g., 'much too strong')."
+  },
+  {
+    "rule_number": 83,
+    "title": "Plural Nouns (e.g., 'belongings')",
+    "explanation": "Words like 'belongings', 'earnings', 'surroundings', 'savings' function as plural nouns and take a plural verb."
+  },
+  {
+    "rule_number": 84,
+    "title": "Usage of 'Politics'",
+    "explanation": "Takes a singular verb when it's a subject ('Politics *is* a dirty game'). Takes a plural verb when it refers to a set of beliefs ('His politics *are*...')."
+  },
+  {
+    "rule_number": 85,
+    "title": "Usage of 'Mathematics' and 'Statistics'",
+    "explanation": "Takes a singular verb when it's a subject. Takes a plural verb when 'Mathematics' means 'calculations' or 'Statistics' means 'data/facts'."
+  },
+  {
+    "rule_number": 86,
+    "title": "'A' vs 'The' with Possessives",
+    "explanation": "'A' means 'one of many' (e.g., 'A brother of mine' - I have multiple brothers). 'The' means 'only one' (e.g., 'The brother of me' - I have only one brother)."
+  },
+  {
+    "rule_number": 87,
+    "title": "'too', 'as well', and 'also'",
+    "explanation": "'too' and 'as well' can be used at the end of a sentence. 'also' cannot; it is placed before the verb. ('I *also* went' or 'I went *too* / *as well*')."
+  },
+  {
+    "rule_number": 88,
+    "title": "Optative Sentences",
+    "explanation": "Sentences expressing a wish, prayer, or curse ('May God bless you!', 'Long live the king!') use the base form of the verb (V1), regardless of the subject."
+  },
+  {
+    "rule_number": 89,
+    "title": "Pseudo Subjects (Dangling Participles)",
+    "explanation": "Use 'It' as an introductory subject when a participle clause ('Being a rainy day...') does not logically modify the main subject ('I'). (e.g., '*It* being a rainy day, I did not go...')."
+  },
+  {
+    "rule_number": 90,
+    "title": "Infinitives describing Nouns",
+    "explanation": "The infinitive must be followed by its required preposition. (e.g., 'I need a pen to write *with*,' 'This is a good bed to sleep *in*')."
+  },
+  {
+    "rule_number": 91,
+    "title": "Using Two Different Helping Verbs",
+    "explanation": "The main verb must be stated for both helping verbs if the form is different. (e.g., 'I have never *watched* and will never *watch* this movie.')."
+  },
+  {
+    "rule_number": 92,
+    "title": "Nouns that are always Plural",
+    "explanation": "Words for tools or clothing with two parts ('scissors', 'pliers', 'tongs', 'jeans', 'trousers', 'shorts') and words like 'thanks', 'regards', 'premises', 'outskirts' are always plural."
+  },
+  {
+    "rule_number": 93,
+    "title": "Nouns that appear Plural but are Singular",
+    "explanation": "Words ending in '-ics' (Mathematics, Physics, Politics, Economics) and words like 'News', 'Innings', 'Summons' are singular and take a singular verb."
+  },
+  {
+    "rule_number": 94,
+    "title": "Uncountable Nouns (No Plural Form)",
+    "explanation": "Nouns like 'equipment', 'furniture', 'jewellery', 'luggage', 'machinery', 'poetry', 'scenery', 'information', 'advice', 'baggage', 'hair' are uncountable and do not have a plural form."
+  },
+  {
+    "rule_number": 95,
+    "title": "Conditional Sentences (Review)",
+    "explanation": "A review of the three conditional types. Also notes that 'As soon as' and 'When' function like 'If' in Type 1 conditionals."
+  },
+  {
+    "rule_number": 96,
+    "title": "Possessive Adjectives with 'all' and 'both'",
+    "explanation": "The possessive adjective (my, your, his) comes *after* 'all' or 'both'. (e.g., 'All my students,' not 'My all students'; 'Both my friends,' not 'My both friends')."
+  },
+  {
+    "rule_number": 97,
+    "title": "Superfluous Sentences (Conjunctions)",
+    "explanation": "'As soon as' is not followed by 'than'. 'As' (for reason) is not followed by 'so'. 'Due to' and 'the reason' are not used together."
+  },
+  {
+    "rule_number": 98,
+    "title": "Usage with 'Quantity'",
+    "explanation": "Use the adjective 'small' with 'quantity', not 'little' or 'few'. (e.g., 'a *small* quantity of food')."
+  },
+  {
+    "rule_number": 99,
+    "title": "Confusing Verb Forms",
+    "explanation": "Fly, Flew, Flown (air). Flow, Flowed, Flowed (water). Find, Found, Found (discover). Found, Founded, Founded (establish). Hang, Hanged, Hanged (person). Hang, Hung, Hung (thing)."
+  },
+  {
+    "rule_number": 100,
+    "title": "Confusing Verb 'Lie'",
+    "explanation": "Lie, Lied, Lied (to tell an untruth). Lay, Laid, Laid (to put something down). Lie, Lay, Lain (to recline or rest)."
+  },
+  {
+    "rule_number": 101,
+    "title": "Preposition with 'Die'",
+    "explanation": "'Die *of*' a direct cause, usually a disease (e.g., 'die of cancer'). 'Die *from*' an external or indirect cause (e.g., 'die from overwork', 'die from wounds')."
+  },
+  {
+    "rule_number": 102,
+    "title": "'Beside' vs. 'Besides'",
+    "explanation": "'Beside' (preposition) = next to. 'Besides' (adverb or preposition) = in addition to, also."
+  },
+  {
+    "rule_number": 103,
+    "title": "Adjectives ending in '-ly'",
+    "explanation": "Words like 'friendly', 'miserly', 'cowardly', 'manly', 'weekly' are adjectives, not adverbs. To use as an adverb, say 'in a friendly manner'."
+  },
+  {
+    "rule_number": 104,
+    "title": "Position of Adverbs",
+    "explanation": "An adverb can *never* be placed between the main verb and its direct object. (e.g., 'He *often comes* to my house' or 'He *comes* to my house *often*')."
+  },
+  {
+    "rule_number": 105,
+    "title": "Order of Multiple Adverbs",
+    "explanation": "The correct order is Adverb of Manner -> Adverb of Place -> Adverb of Time (MPT). (e.g., 'She sang *beautifully* (M) *at the concert* (P) *last night* (T).')."
+  },
+  {
+    "rule_number": 106,
+    "title": "'Very' vs. 'Much'",
+    "explanation": "'Very' modifies positive degree adjectives and adverbs. 'Much' modifies comparative degree adjectives (much weaker) and past participles (much interested)."
+  },
+  {
+    "rule_number": 107,
+    "title": "'Between...and' / 'From...to'",
+    "explanation": "The correct pair is 'Between...and' (e.g., 'between 4 pm *and* 5 pm'). The other correct pair is 'From...to' (e.g., 'from 4 pm *to* 5 pm')."
+  },
+  {
+    "rule_number": 108,
+    "title": "Nouns with Different Plural Meanings",
+    "explanation": "Some uncountable nouns have a different meaning when 's' is added. (e.g., 'Wood' (timber) vs. 'Woods' (forest); 'Air' (gas) vs. 'Airs' (arrogance); 'Advice' (counsel) vs. 'Advices' (information))."
+  },
+  {
+    "rule_number": 109,
+    "title": "Common Slang/Incorrect Phrasing",
+    "explanation": "Avoid: 'English teacher' (use 'teacher of English'), 'family members' (use 'members of the family'), 'cousin brother/sister' (use 'cousin')."
+  },
+  {
+    "rule_number": 110,
+    "title": "Possessive Adjectives for 'One' and 'Everyone'",
+    "explanation": "The possessive for 'One' is 'one's' (e.g., 'One should do *one's* duty'). The possessive for 'Everyone' or 'Each' is 'his' (or 'her' if specified)."
+  },
+  {
+    "rule_number": 111,
+    "title": "'Fewer' vs. 'Less'",
+    "explanation": "'Fewer' is used for countable nouns (e.g., 'fewer students'). 'Less' is used for uncountable nouns (e.g., 'less water')."
+  },
+  {
+    "rule_number": 112,
+    "title": "'Elder' vs. 'Older'",
+    "explanation": "'Elder' is used for family members (blood relations). 'Older' is used for people or things in general. Also covers 'Later' (time) vs 'Latter' (position) and 'Farther' (distance) vs 'Further' (additional)."
+  },
+  {
+    "rule_number": 113,
+    "title": "Making Logical Comparisons",
+    "explanation": "Ensure you compare like with like. (e.g., 'The *weather* of Delhi is better than *that of* Mumbai.'). Use 'that of' for singular, 'those of' for plural."
+  },
+  {
+    "rule_number": 114,
+    "title": "Phrases Followed by Plural Nouns",
+    "explanation": "Phrases 'One of the', 'either of', 'neither of', and 'each of' are always followed by a plural noun (but take a singular verb)."
+  },
+  {
+    "rule_number": 115,
+    "title": "Pronoun Case after Prepositions (Review)",
+    "explanation": "(Repeat of Rule 41) Prepositions like 'but', 'except', 'between' must be followed by the objective case (me, him, her)."
+  },
+  {
+    "rule_number": 116,
+    "title": "Pronoun Case with Pseudo Subjects",
+    "explanation": "The pronoun following 'It is...' must be in the subjective case. (e.g., 'It is *he* who should be blamed,' not 'It is him...')."
+  },
+  {
+    "rule_number": 117,
+    "title": "Correlative Words",
+    "explanation": "The correct pairs are: 'Such...as', 'Else...but', 'Other/Otherwise...than'."
+  },
+  {
+    "rule_number": 118,
+    "title": "Possessive of Plural Nouns ending in 's'",
+    "explanation": "To avoid hissing sounds, a plural noun ending in 's' takes only an apostrophe (') for possession. (e.g., 'girls' school,' 'Pythagoras' theorem')."
+  },
+  {
+    "rule_number": 119,
+    "title": "Apostrophe with Possessive Pronouns",
+    "explanation": "Never use an apostrophe with possessive pronouns. 'yours', 'ours', 'hers', 'theirs', 'its' are all correct as written."
+  },
+  {
+    "rule_number": 120,
+    "title": "Predicative Adjectives",
+    "explanation": "Adjectives like 'afraid', 'asleep', 'aware', 'alone', 'ill', 'glad' come after a verb ('He is afraid'), not before a noun ('The afraid man' is incorrect)."
+  }
+]
