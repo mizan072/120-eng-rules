@@ -43,6 +43,58 @@
     "examples": [
         { "type": "correct", "sentence": "He is one of the tallest boys in the class." },
         { "type": "incorrect", "sentence": "He is one of the tallest boy in the class." }
+    ],
+    "quiz": [
+      {
+        "question": "______ of the players has a unique talent.",
+        "options": ["Each", "Every", "All", "Some"],
+        "correct_answer": "Each"
+      },
+      {
+        "question": "One of my best ________ is coming to visit me today.",
+        "options": ["friend", "friends", "friend's", "friends'"],
+        "correct_answer": "friends"
+      },
+      {
+        "question": "Which sentence is grammatically correct?",
+        "options": ["Both of them are not going.", "Neither of them are going.", "Neither of them is going.", "Both of them is not going."],
+        "correct_answer": "Neither of them is going."
+      },
+      {
+        "question": "She is the most intelligent girl ________ I have ever met.",
+        "options": ["who", "whom", "which", "that"],
+        "correct_answer": "that"
+      },
+      {
+        "question": "If I ______ you, I would accept the offer.",
+        "options": ["am", "was", "were", "be"],
+        "correct_answer": "were"
+      },
+      {
+        "question": "_______ employee received a bonus.",
+        "options": ["Each", "Every", "Each of", "All"],
+        "correct_answer": "Every"
+      },
+      {
+        "question": "One of the reasons for his failure ________ his laziness.",
+        "options": ["is", "are", "was", "were"],
+        "correct_answer": "is"
+      },
+      {
+        "question": "The correct alternative for 'Both Ram and Shyam are not honest' is:",
+        "options": ["Neither Ram nor Shyam are honest.", "Either Ram or Shyam is honest.", "Neither Ram nor Shyam is honest.", "Ram and Shyam are dishonest."],
+        "correct_answer": "Neither Ram nor Shyam is honest."
+      },
+      {
+        "question": "This is the house ________ my grandfather built.",
+        "options": ["who", "which", "that", "whom"],
+        "correct_answer": "that"
+      },
+      {
+        "question": "What would you do if you ________ a million dollars?",
+        "options": ["win", "won", "had won", "will win"],
+        "correct_answer": "won"
+      }
     ]
   },
   {
@@ -88,6 +140,58 @@
     "examples": [
         { "type": "correct", "sentence": "When I reached the station, the train had already departed." },
         { "type": "incorrect", "sentence": "When I reached the station, the train has already departed." }
+    ],
+    "quiz": [
+        {
+            "question": "Which sentence is correct?",
+            "options": ["It is a five-rupees note.", "It is a five-rupee note.", "It is a five-rupee notes.", "It is a five-rupees notes."],
+            "correct_answer": "It is a five-rupee note."
+        },
+        {
+            "question": "Fifty kilometers ________ a long distance to travel on foot.",
+            "options": ["is", "are", "have", "has"],
+            "correct_answer": "is"
+        },
+        {
+            "question": "Mumbai is larger than ________ city in India.",
+            "options": ["any", "any other", "all", "some"],
+            "correct_answer": "any other"
+        },
+        {
+            "question": "She has been living in this house ________ ten years.",
+            "options": ["since", "for", "from", "with"],
+            "correct_answer": "for"
+        },
+        {
+            "question": "The patient ________ before the doctor arrived.",
+            "options": ["died", "had died", "has died", "was dying"],
+            "correct_answer": "had died"
+        },
+        {
+            "question": "Which of the following is correct?",
+            "options": ["A two-feet snake.", "A two-foot snake.", "A two-foots snake.", "A two-feets snake."],
+            "correct_answer": "A two-foot snake."
+        },
+        {
+            "question": "A thousand dollars ________ a lot of money for me.",
+            "options": ["is", "are", "have", "has"],
+            "correct_answer": "is"
+        },
+        {
+            "question": "No other boy in the class is as tall as ________.",
+            "options": ["he", "him", "his", "himself"],
+            "correct_answer": "he"
+        },
+        {
+            "question": "I have been waiting for you ________ 9 AM.",
+            "options": ["since", "for", "from", "with"],
+            "correct_answer": "since"
+        },
+        {
+            "question": "When she ________ the room, he was watching TV.",
+            "options": ["entered", "had entered", "has entered", "was entering"],
+            "correct_answer": "entered"
+        }
     ]
   },
   {
