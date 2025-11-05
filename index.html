@@ -3,21 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>120 Grammar Rules</title>
+    <title>120 English Grammar Rules</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="app-container">
-        <h1>120 Rules of Grammar</h1>
-        
-        <div id="rules-container"></div>
+    <header>
+        <h1>120 English Grammar Rules</h1>
+        <p>Your comprehensive guide to mastering English grammar.</p>
+    </header>
+
+    <main>
+        <div id="rules-container" class="rules-container">
+            <p class="loading-text">Loading rules...</p>
+        </div>
         
         <div class="pagination-controls">
-            <button id="prev-btn">Previous</button>
+            <button id="prev-btn" class="pagination-btn">Previous</button>
             <span id="page-info"></span>
-            <button id="next-btn">Next</button>
+            <button id="next-btn" class="pagination-btn">Next</button>
         </div>
-    </div>
+    </main>
     
     <script src="script.js"></script>
 </body>

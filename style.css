@@ -161,3 +161,39 @@ main {
     color: #555;
     font-size: 1.1rem;
 }
+
+/* Media Queries for Mobile Responsiveness */
+@media (max-width: 768px) {
+    header {
+        padding: 1.5rem 1rem;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    main {
+        margin: 1rem auto;
+    }
+
+    .rule-card {
+        padding: 1rem 1.2rem;
+    }
+
+    .rule-title {
+        font-size: 1.2rem;
+    }
+
+    .pagination-controls {
+        flex-direction: column;
+    }
+
+    .pagination-btn {
+        width: 100%;
+        margin-bottom: 0.5rem;
+    }
+
+    #page-info {
+        margin-bottom: 1rem;
+    }
+}
